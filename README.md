@@ -15,7 +15,7 @@ with Jupyter displaying the resulting video when using `%%manim` cell magic to w
 The code in the example above comes from the excellent [manim tutorial](https://github.com/malhotra5/Manim-Tutorial).
 
 Run a live demo in your browser [by clicking here](https://mybinder.org/v2/gh/robin-chou/jupyter-manim/master?filepath=Example.ipynb).
-
+(To get directory via modifying the generated binder link tail: notebooks/Example.ipynb ——> tree)
 ### Installation
 
 ```sh
